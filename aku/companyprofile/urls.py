@@ -30,3 +30,4 @@ urlpatterns = [
     path('landing/tentang/',tentang, name = 'tentang'),
     path('addbrg/' ,tambah_barang)
 ]
+# update alex
